@@ -1,0 +1,16 @@
+{
+    "name": "ben/test-composer",
+    "description": "ceshi",
+    "autoload": {
+        "psr-4": {
+            "Ben\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "宋明屿",
+            "email": "ben.song@goldentec.com"
+        }
+    ],
+    "require": {}
+}
